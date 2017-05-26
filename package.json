@@ -13,7 +13,7 @@
   "bugs": "https://github.com/Draaak/tweenRx/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Draaak/tweenRx"
+    "url": "https://github.com/WarrenDerivco/tweenRx"
   },
   "main": "dist/tweenRx.js",
   "peerDependencies": {
